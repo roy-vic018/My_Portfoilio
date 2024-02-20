@@ -17,6 +17,7 @@ img {
 
 .education-content img {
     border-radius: 15px;
+    display: flex;
 }
 
 /*For hobbies and interest*/
