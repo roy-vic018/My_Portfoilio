@@ -774,7 +774,6 @@ span {
     padding: 2rem 9%;
     background: var(--second-bg-color);
     min-height: 5vh;
-    border: solid;
 }
 
 .footer-text,
